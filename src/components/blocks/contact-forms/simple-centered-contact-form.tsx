@@ -14,19 +14,19 @@ export function SimpleCenteredContactForm() {
   const contactInfo = [
     {
       label: "Email",
-      value: "contact@healthinformatics.com",
+      value: "crittenden.ce@gmail.com",
       icon: <Mail className="h-5 w-5 text-[--color-sage-green]" />,
-      href: "mailto:contact@healthinformatics.com"
+      href: "mailto:contact@gmail.com"
     },
     {
       label: "Phone",
-      value: "+1 (555) 123-4567",
+      value: "+1 (517) 881-7779",
       icon: <Phone className="h-5 w-5 text-[--color-sage-green]" />,
       href: "tel:+15551234567"
     },
     {
-      label: "Office",
-      value: "Healthcare Innovation Center",
+      label: "Location",
+      value: "Ann Arbor, MI",
       icon: <MapPin className="h-5 w-5 text-[--color-sage-green]" />,
       href: "#"
     },
@@ -127,7 +127,7 @@ export function SimpleCenteredContactForm() {
                   <textarea
                     rows={5}
                     id="message"
-                    placeholder="Tell us about your healthcare informatics needs and goals..."
+                    placeholder="Tell me about your healthcare informatics needs and goals..."
                     className="block w-full bg-white px-4 rounded-md border-0 py-1.5 shadow-input text-[--color-charcoal-gray] placeholder:text-gray-400 focus:ring-2 focus:ring-[--color-deep-teal] focus:outline-none sm:text-sm sm:leading-6 font-[var(--font-body)]"
                   />
                 </div>

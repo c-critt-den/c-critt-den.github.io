@@ -41,15 +41,15 @@ export default function AboutSection() {
               
               <div className="space-y-6 text-lg leading-relaxed">
                 <p className="text-[var(--color-text-body)] font-[var(--font-body)]">
-                  As a dedicated health informatics professional, I bridge the critical gap between healthcare delivery and technology innovation. With over a decade of experience in the field, I've witnessed firsthand how thoughtful implementation of digital solutions can transform patient outcomes and streamline clinical workflows.
+                  As a dedicated health informatics professional, I bridge the critical gap between healthcare delivery and technology innovation. My academic journey at the University of Michigan equipped me with a robust understanding of health informatics, R & SQL programming, and public health paradigms, complemented by leadership roles within Inclusive Leaders in Information program and PHAST (Public Health in Action Support Team). These experiences have fueled my ambition to support healthcare's digital transformation through the advancement of IT infrastructure and data standardization.
                 </p>
                 
                 <p className="text-[var(--color-text-body)] font-[var(--font-body)]">
-                  My passion lies in developing and implementing technology solutions that genuinely improve healthcare accessibility, quality, and efficiency. I believe that the most impactful health informatics work happens when we deeply understand both the clinical environment and the technological possibilities.
+                  My passion lies in developing and implementing technology solutions that improve healthcare accessibility, quality, and efficiency. I believe that the most impactful work happens when we deeply understand the patients, clinical environment, and the technological possibilities.
                 </p>
                 
                 <p className="text-[var(--color-text-body)] font-[var(--font-body)]">
-                  My approach to problem-solving is rooted in collaboration, evidence-based decision making, and a commitment to user-centered design. Every project I undertake begins with understanding the real-world needs of healthcare providers and patients, ensuring that technology serves people rather than the other way around.
+                  My approach to problem-solving is rooted in collaboration, evidence-based decision making, and a commitment to user-centered design. Every project I undertake begins with understanding the real-world needs of healthcare providers and patients, ensuring that technology serves people.
                 </p>
               </div>
             </div>
@@ -64,7 +64,7 @@ export default function AboutSection() {
                     </div>
                     <div className="w-px h-6 bg-[var(--color-sage-green)]/30" />
                   </div>
-                  <div className="text-3xl font-bold text-[var(--color-deep-teal)] mb-1 font-[var(--font-display)]">10+</div>
+                  <div className="text-3xl font-bold text-[var(--color-deep-teal)] mb-1 font-[var(--font-display)]">2+</div>
                   <div className="text-sm font-medium text-gray-600 font-[var(--font-body)]">Years Experience</div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function AboutSection() {
                     </div>
                     <div className="w-px h-6 bg-[var(--color-deep-teal)]/30" />
                   </div>
-                  <div className="text-3xl font-bold text-[var(--color-deep-teal)] mb-1 font-[var(--font-display)]">50+</div>
+                  <div className="text-3xl font-bold text-[var(--color-deep-teal)] mb-1 font-[var(--font-display)]">4+</div>
                   <div className="text-sm font-medium text-gray-600 font-[var(--font-body)]">Projects Completed</div>
                 </div>
               </div>
@@ -90,7 +90,7 @@ export default function AboutSection() {
                     </div>
                     <div className="w-px h-6 bg-[var(--color-sage-green)]/30" />
                   </div>
-                  <div className="text-3xl font-bold text-[var(--color-deep-teal)] mb-1 font-[var(--font-display)]">25+</div>
+                  <div className="text-3xl font-bold text-[var(--color-deep-teal)] mb-1 font-[var(--font-display)]">1+</div>
                   <div className="text-sm font-medium text-gray-600 font-[var(--font-body)]">Healthcare Organizations</div>
                 </div>
               </div>

@@ -57,13 +57,13 @@ export function CenteredWithLogo() {
             &copy; {new Date().getFullYear()} Dr. Sarah Mitchell, PhD
           </p>
           <div className="flex gap-4">
-            <Link href="https://linkedin.com/in/sarah-mitchell" className="transition-colors hover:text-[var(--color-sage-green)]">
+            <Link href="https://linkedin.com/in/ccritten" className="transition-colors hover:text-[var(--color-sage-green)]">
               <Linkedin className="h-6 w-6 text-[var(--color-deep-teal)]" />
             </Link>
-            <Link href="https://github.com/sarah-mitchell" className="transition-colors hover:text-[var(--color-sage-green)]">
+            <Link href="https://github.com/c-critt-den" className="transition-colors hover:text-[var(--color-sage-green)]">
               <Github className="h-6 w-6 text-[var(--color-deep-teal)]" />
             </Link>
-            <Link href="mailto:sarah.mitchell@health-informatics.org" className="transition-colors hover:text-[var(--color-sage-green)]">
+            <Link href="mailto:crittenden.ce@gmail.org" className="transition-colors hover:text-[var(--color-sage-green)]">
               <Mail className="h-6 w-6 text-[var(--color-deep-teal)]" />
             </Link>
           </div>

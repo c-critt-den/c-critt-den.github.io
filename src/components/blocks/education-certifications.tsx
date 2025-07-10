@@ -20,54 +20,35 @@ interface CertificationItem {
 const EducationCertifications = () => {
   const education: EducationItem[] = [
     {
-      institution: "Stanford University",
-      degree: "Doctor of Medicine (M.D.)",
-      graduationYear: "2019",
-      coursework: ["Advanced Clinical Practice", "Medical Ethics", "Healthcare Leadership", "Research Methodology"]
+      institution: "University of Michigan",
+      degree: "Master of Health Informatics (MHI)",
+      graduationYear: "2025",
+      coursework: ["Healthcare Data Management", "Exploratory Data Analysis for Health", "Knowledge Representation and Management in Health", "Population Health Informatics", "Evaluation Methods"]
     },
     {
-      institution: "Harvard University",
-      degree: "Bachelor of Science in Biology",
-      graduationYear: "2015",
-      coursework: ["Molecular Biology", "Organic Chemistry", "Biostatistics", "Human Anatomy"]
+      institution: "University of Michigan",
+      degree: "Certificate in Innovation and Entrepreneurship",
+      graduationYear: "2025",
+      coursework: ["Project Management and Consulting", "Healthcare Startups", "Compensation, Funding, and Ownership"]
     },
     {
-      institution: "Massachusetts Institute of Technology",
-      degree: "Certificate in Healthcare Innovation",
-      graduationYear: "2014",
-      coursework: ["Digital Health Technologies", "Healthcare Systems", "Innovation Management"]
-    }
+      institution: "University of Michigan",
+      degree: "Bachelor of Arts in Sociology of Health and Medicine & German",
+      graduationYear: "2023",
+      coursework: ["Sociological Research Methods", "Statistics for Social Science", "Women's Health", "Health, Medicine, and Society"]
+    },
   ]
 
   const certifications: CertificationItem[] = [
     {
-      name: "Board Certified Internal Medicine",
-      organization: "American Board of Internal Medicine",
-      validFrom: "2020",
-      validTo: "2030"
+      name: "Intercultural Leadership",
+      organization: "University of Michigan",
+      validFrom: "2023"
     },
     {
-      name: "Advanced Cardiac Life Support (ACLS)",
-      organization: "American Heart Association",
-      validFrom: "2023",
-      validTo: "2025"
-    },
-    {
-      name: "Basic Life Support (BLS)",
-      organization: "American Heart Association",
-      validFrom: "2023",
-      validTo: "2025"
-    },
-    {
-      name: "Medical License - California",
-      organization: "Medical Board of California",
-      validFrom: "2020"
-    },
-    {
-      name: "DEA Registration",
-      organization: "Drug Enforcement Administration",
-      validFrom: "2020",
-      validTo: "2026"
+      name: "Overdose Rescue Training",
+      organization: "AmeriCorps",
+      validFrom: "2022"
     }
   ]
 

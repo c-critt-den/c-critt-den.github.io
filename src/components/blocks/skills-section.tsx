@@ -27,8 +27,8 @@ interface Skill {
 const skills: Skill[] = [
   // Healthcare-specific skills
   {
-    name: "Electronic Health Records",
-    proficiency: 95,
+    name: "Project Management",
+    proficiency: 92,
     icon: FileText,
     category: "Healthcare Technology"
   },
@@ -40,19 +40,19 @@ const skills: Skill[] = [
   },
   {
     name: "HL7/FHIR Standards",
-    proficiency: 85,
+    proficiency: 80,
     icon: Database,
     category: "Healthcare Technology"
   },
   {
     name: "Healthcare Operations",
-    proficiency: 88,
+    proficiency: 78,
     icon: Building,
     category: "Domain Knowledge"
   },
   {
-    name: "Regulatory Compliance",
-    proficiency: 82,
+    name: "HIPAA Compliance",
+    proficiency: 100,
     icon: Shield,
     category: "Domain Knowledge"
   },
@@ -65,37 +65,37 @@ const skills: Skill[] = [
   // Technical skills
   {
     name: "Python",
-    proficiency: 92,
+    proficiency: 72,
     icon: Code2,
     category: "Technical Skills"
   },
   {
     name: "SQL",
-    proficiency: 90,
+    proficiency: 78,
     icon: Database,
     category: "Technical Skills"
   },
   {
     name: "Tableau",
-    proficiency: 88,
+    proficiency: 75,
     icon: BarChart3,
     category: "Technical Skills"
   },
   {
-    name: "Machine Learning",
-    proficiency: 85,
+    name: "Predictive Analytics",
+    proficiency: 75,
     icon: Brain,
     category: "Technical Skills"
   },
   {
     name: "Statistical Analysis",
-    proficiency: 89,
+    proficiency: 90,
     icon: ChartSpline,
     category: "Technical Skills"
   },
   {
-    name: "Clinical Informatics",
-    proficiency: 91,
+    name: "Health Informatics",
+    proficiency: 90,
     icon: Stethoscope,
     category: "Healthcare Technology"
   }
